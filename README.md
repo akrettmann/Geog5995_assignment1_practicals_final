@@ -25,9 +25,9 @@ The animation practicals require a change in backend. In order to run practical8
 
 ### Authors
 
-These practicals have been completed by Anna Krettmann as part of Assignment 1, GEOG5995 Programming for Social Science. 
+These practicals have been completed by Anna Krettmann as part of Assignment 1, [GEOG5995 Programming for Social Science](https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/). 
 
 ### License
 
-The license can be found at: https://github.com/akrettmann/Geog5995_assignment1_practicals_final
+The license can be found [here](MIT License.md)
 
