@@ -29,5 +29,5 @@ These practicals have been completed by Anna Krettmann as part of Assignment 1, 
 
 ### License
 
-The license can be found [here](MIT License.md)
+The license can be found at: https://github.com/akrettmann/Geog5995_assignment1_practicals_final
 
