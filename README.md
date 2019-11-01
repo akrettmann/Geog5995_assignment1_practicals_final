@@ -1,8 +1,6 @@
-# Geog5995_assignment1_practicals_final
+# Assignment 1, GEOG5995M Programming for Social Science
 
-## Assignment 1, GEOG5995M Programming for Social Science
-
-## Agent based model of agents interacting on resources within an environment
+Agent based model of agents interacting on resources within an environment
 
 ### About
 
