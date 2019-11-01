@@ -8,7 +8,7 @@ This series of practicals implements an agent based model acting in an environme
 
 The series of practicals is designed to gradually build up Python programming skills by using the program development environment Spyder. The agent based model is build up gradually accordingly starting with rather simple exercises and step by step adding more complex processing features such as object classes, reading and writing csv and html files (web scraping), and building graphical user interfaces (GUI).
 
-The model takes in a raster input file consisting of 300 rows and 300 columns of integer values to be taking as an environment grid of (y,x) coordinates in which agents (e.g. sheeps) and resources (e.g. grass) are placed. The numbers in the grid represent the amount of resource units and the location of an agent is represented by its corresponding coordinates. The agents move randomly around the grid and consume and/or share resources according to some rules.
+The model takes in a raster input file consisting of 300 rows and 300 columns of integer values to be taking as an environment grid of (y,x) coordinates in which agents (e.g. sheep) and resources (e.g. grass) are placed. The numbers in the grid represent the amount of resource units and the location of an agent is represented by its corresponding coordinates. The agents move randomly around the grid and consume and/or share resources according to some rules.
 
 The agents are implemented as an object class with methods like 'move', 'eat' and 'share'.
 
